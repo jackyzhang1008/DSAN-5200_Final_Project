@@ -1,6 +1,4 @@
-﻿"Title: Average Marketplace Premiums by Metal Tier, 2018-2024 | KFF"
-"Timeframe: 2024"
-"Location","Average Lowest-Cost Bronze Premium","Average Lowest-Cost Silver Premium","Average Benchmark Premium","Average Lowest-Cost Gold Premium"
+﻿"Location","Average Lowest-Cost Bronze Premium","Average Lowest-Cost Silver Premium","Average Benchmark Premium","Average Lowest-Cost Gold Premium"
 "United States","$364","$468","$477","$488"
 "Alabama","$408","$563","$564","$637"
 "Alaska","$533","$870","$889","$791"
@@ -53,11 +51,5 @@
 "West Virginia","$652","$842","$847","$849"
 "Wisconsin","$350","$466","$476","$499"
 "Wyoming","$585","$820","$821","$703"
-
-"Notes"
-"Premiums are monthly. Premiums were analyzed using the lowest-cost premium for each metal tier (bronze, silver, and gold) and the second-lowest-cost silver (benchmark) premium for a 40-year-old in each county and weighted by county plan selections. In some state-based marketplaces, the premium data for some years are at the rating area level and are mapped to counties before weighting by county plan selections. For more information on sources and methodology, see: [How ACA Marketplace Premiums Are Changing by County in 2023](https://www.kff.org/private-insurance/issue-brief/how-aca-marketplace-premiums-are-changing-by-county-in-2023/)."
-
-"Sources"
-"KFF analysis of data from Healthcare.gov, state rate review websites, state plan finder tools and CMS analysis of rate changes in the benchmark silver plan, October 2023."
 
 
